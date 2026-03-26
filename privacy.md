@@ -65,7 +65,7 @@ Updates to this privacy policy will be posted at this URL. The "Last updated" da
 
 ## Contact
 
-If you have questions about this privacy policy, please open an issue at [github.com/ViSquaredApps/WinStbEmu](https://github.com/ViSquaredApps/WinStbEmu/issues).
+If you have questions about this privacy policy, please email [winstbemu@outlook.com](mailto:winstbemu@outlook.com) or open an issue at [github.com/ViSquaredApps/WinStbEmu](https://github.com/ViSquaredApps/WinStbEmu/issues).
 
 ---
 

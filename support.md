@@ -68,6 +68,7 @@ See our [Privacy Policy](privacy).
 
 ## Contact
 
+- **Email**: [winstbemu@outlook.com](mailto:winstbemu@outlook.com)
 - **Issues & Support**: [GitHub Issues](https://github.com/ViSquaredApps/WinStbEmu/issues)
 - **Publisher**: ViSquared
 
