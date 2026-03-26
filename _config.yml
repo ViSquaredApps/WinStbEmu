@@ -1,0 +1,10 @@
+title: WinStbEmu
+description: Native Windows MAG set-top box emulator for Stalker Portal IPTV services
+theme: minima
+baseurl: /WinStbEmu
+url: https://visquaredapps.github.io
+
+# Exclude non-page files from the build
+exclude:
+  - LICENSE
+  - README.md
