@@ -12,6 +12,15 @@ A native Windows MAG set-top box emulator for authorized Stalker Portal / Minist
 - [Privacy Policy](privacy)
 - [Support](support)
 
+## FireStb
+
+ViSquared's TV-only app for Android-based Amazon Fire TV / Fire OS devices. Provider content and subscriptions are not included; use only services you are authorized to access.
+
+FireStb's privacy and support information is separate from the Windows app:
+
+- [FireStb Privacy Policy]({{ '/firestb-privacy.html' | relative_url }})
+- [FireStb Support]({{ '/firestb-support.html' | relative_url }})
+
 ---
 
 © 2026 ViSquared. All rights reserved.
